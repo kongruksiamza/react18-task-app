@@ -1,0 +1,21 @@
+.App{
+  min-height: 100vh;
+}
+.container{
+  background: #fff;
+  padding: 1.2rem;
+  margin: 3rem auto;
+  max-width: 35rem;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 0.25rem;
+}
+.light{
+  background: white;
+  color: #000;
+  transition: all 500ms;
+}
+.dark{
+  background: #15202b;
+  color: white;
+  transition: all 500ms;
+}
